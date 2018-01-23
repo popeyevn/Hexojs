@@ -46,7 +46,7 @@ Attribute | Description
 `type` | File type. The value can be `create`, `update`, `skip`, `delete`.
 `params` | The information from path matching.
 
-Box also provides some methods so you don't have to do file IO by yourself.
+Box also provides some methods so you don't have to do file IO by yourself
 
 Method | Description
 --- | ---
